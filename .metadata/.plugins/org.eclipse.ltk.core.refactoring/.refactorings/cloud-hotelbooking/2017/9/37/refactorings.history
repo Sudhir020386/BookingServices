@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application.yml&apos; to &apos;cloud-microservice-hotelbooking/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;cloud-hotelbooking&apos;&#x0D;&#x0A;- Destination element: &apos;cloud-microservice-hotelbooking/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;application.yml&apos;" description="Copy file" destination="=cloud-microservice-hotelbooking/src\/main\/resources" element1="src/main/resources/application.yml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1505465689717" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cloud.bookingorder.web.api.BookingOrderAPI&apos; to &apos;BookingOrderWebAPI&apos;&#x0D;&#x0A;- Original project: &apos;cloud-microservice-bookingorder&apos;&#x0D;&#x0A;- Original element: &apos;com.cloud.bookingorder.web.api.BookingOrderAPI&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cloud.bookingorder.web.api.BookingOrderWebAPI&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BookingOrderAPI&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.cloud.bookingorder.web.api{BookingOrderAPI.java[BookingOrderAPI" matchStrategy="1" name="BookingOrderWebAPI" qualified="false" references="true" similarDeclarations="false" stamp="1505475128941" textual="false" version="1.0"/>
+</session>
