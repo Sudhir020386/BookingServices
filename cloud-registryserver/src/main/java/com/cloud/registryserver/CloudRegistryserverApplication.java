@@ -10,5 +10,6 @@ public class CloudRegistryserverApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CloudRegistryserverApplication.class, args);
+       System.out.println("Test");
 	}
 }
